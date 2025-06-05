@@ -1,0 +1,10 @@
+base,comparison,ep,minus2LL,df,AIC,diffLL,diffdf,p
+saturated,NA,40,50512,16543,50592,NA,NA,NA
+saturated,means twin order,30,50520,16553,50580,7.98,10,0.63097
+saturated,mean and var across zyg and sib,26,50526,16557,50578,13.75,14,0.46884
+saturated,mean and var across zyg for partners,24,50528,16559,50576,15.97,16,0.45526
+saturated,var partners and sib,23,50531,16560,50577,18.3,17,0.37043
+saturated,mean partners and sib,22,50531,16561,50575,18.3,18,0.43619
+saturated,covar full siblings across zyg,19,50534,16564,50572,21.68,21,0.41839
+saturated,cov partners across zyg,16,50534,16567,50566,21.75,24,0.59393
+saturated,cov in law across zyg,10,50545,16573,50565,32.42,30,0.34841

@@ -1,0 +1,6 @@
+base,comparison,ep,minus2LL,df,AIC,diffLL,diffdf,p
+saturated,NA,40,50512,16543,50592,NA,NA,NA
+saturated,iam_date,10,50543,16574,50563,30.69,31,0.48193
+iam_date,dam_date,6,50549,16578,50561,6.36,4,0.17391
+dam_date,dam_ade,5,50550,16579,50560,0.17,1,0.67776
+dam_ade,dam_ae,4,50556,16580,50564,6.32,1,0.01196

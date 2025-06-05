@@ -1,0 +1,55 @@
+model,parameter,estimate,lbound,ubound
+ADE,varP,1.27643,1.24656,1.30731
+ADE,varP_A,0.22984,0.06588,0.39057
+ADE,varP_D,0.11687,-0.05281,0.28937
+ADE,varP_E,0.65329,0.62193,0.68591
+AE,varP,1.27673,1.24683,1.30763
+AE,varP_A,0.33865,0.30796,0.36844
+AE,varP_D,0,0,0
+AE,varP_E,0.66135,0.63156,0.69204
+iam_date,varP,1.2693,1.24168,1.2978
+iam_date,varS,1.2693,1.24168,1.2978
+iam_date,varP_A,0.1758,0.02923,0.29823
+iam_date,varP_T,0.02587,0,0.07926
+iam_date,varP_D,0.14319,0.01762,0.29946
+iam_date,varP_E,0.65514,0.62394,0.68759
+iam_date,varS_A,0.00997,0,0.97584
+iam_date,varS_T,0.80708,0,0.99383
+iam_date,varS_D,0.15782,0,1
+iam_date,varS_E,0.02513,0,0.35327
+iam_date,Partner Correlation (P),0.18723,0.12151,0.24979
+iam_date,Partner Correlation (S),0.86589,0.23084,1.94329
+iam_date,Partner rG,0.00863,0,1.00623
+iam_date,mean,0.00148,-0.01734,0.02031
+iam_date,mu,1.09908,0.2635,NA
+iam_date,a1s,0.11249,-0.76284,1.11419
+iam_date,t1s,-1.01214,-1.12631,1.12631
+iam_date,d1s,0.44758,-0.48363,1.13349
+iam_date,e1s,0.17859,-0.12731,0.66926
+iam_date,a1,0.47238,0.18942,0.61601
+iam_date,t1,-0.18122,-0.31738,0.31738
+iam_date,d1,0.42632,0.14832,0.61703
+iam_date,e1,0.91191,0.88975,0.93476
+dam_ade,varP,1.2693,1.24168,1.29778
+dam_ade,varS,1.2693,1.24168,1.29778
+dam_ade,varP_A,0.19635,0.08244,0.30159
+dam_ade,varP_T,0,0,0
+dam_ade,varP_D,0.1485,0.03175,0.27311
+dam_ade,varP_E,0.65515,0.62396,0.6876
+dam_ade,varS_A,0.19635,0.08244,0.30159
+dam_ade,varS_T,0,0,0
+dam_ade,varS_D,0.1485,0.03175,0.27311
+dam_ade,varS_E,0.65515,0.62396,0.6876
+dam_ade,Partner Correlation (P),0.18765,0.12208,0.25009
+dam_ade,Partner Correlation (S),0.18765,0.12208,0.25009
+dam_ade,Partner rG,0.03685,0.01482,0.06237
+dam_ade,mean,0.00158,-0.01718,0.02035
+dam_ade,mu,0.23819,0.15472,0.31841
+dam_ade,a1s,0.49923,0.32312,0.61942
+dam_ade,t1s,0,0,0
+dam_ade,d1s,0.43416,0.2,0.58905
+dam_ade,e1s,0.91191,0.88975,0.93478000000000006
+dam_ade,a1,0.49923,0.32312,0.61942
+dam_ade,t1,0,0,0
+dam_ade,d1,0.43416,0.2,0.58905
+dam_ade,e1,0.91191,0.88975,0.93478000000000006
