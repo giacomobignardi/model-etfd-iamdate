@@ -1,4 +1,4 @@
-## iAM-DATE: Assortative mating can mask non-additive genetic contribution to individual differences   
+## iAM-DATE model — Assortative mating can mask non-additive genetic contribution to individual differences   
 
 This repository contains the full implementation of the Extended Twin Family Design (ETFD) model within the iAM-DATE framework. It includes:
 
